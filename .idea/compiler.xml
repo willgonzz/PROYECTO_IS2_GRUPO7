@@ -6,7 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="PROYECTO_IS2_GRUPO7" />
+        <module name="grupo7-api-client" />
+        <module name="grupo7-api" />
       </profile>
     </annotationProcessing>
   </component>
