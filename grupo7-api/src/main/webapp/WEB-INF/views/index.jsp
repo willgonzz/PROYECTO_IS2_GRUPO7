@@ -6,7 +6,7 @@
 </head>
 <body>
 <h2>Login Page</h2>
-<form action="/grupo7-api/login" method="post">
+<form action="/api/login" method="post">
     <label for="username">Username:</label>
     <input type="text" id="username" name="username" required><br><br>
     <label for="password">Password:</label>
